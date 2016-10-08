@@ -9,7 +9,7 @@ from accelerator.multiget import MultiGet
 
 def main():
     parser = argparse.ArgumentParser(description="File [ HTTP / FTP ] Download Accelerator")
-    parser.add_argument("url", help="The link to downlaod")
+    parser.add_argument("url", help="The link to download")
 
     parser.add_argument("--directory", "-d", default=".", help="Directory where the file will be downloaded")
     parser.add_argument("--user", default=None, help="Authentication - Username ")
