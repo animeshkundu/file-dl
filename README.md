@@ -1,7 +1,7 @@
 file-dl
 =======
 
-File [ HTTP / FTP ] Download Accelerator
+File Download Accelerator. Supports both HTTP and FTP downloads.
 
 CLI tool for any *nix* system. Inspired by IDM on Windows.
 
