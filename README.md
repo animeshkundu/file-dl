@@ -5,9 +5,16 @@ File Download Accelerator. Supports both HTTP and FTP downloads.
 
 CLI tool for any *nix* system. Inspired by IDM on Windows.
 
+PyPi package [file-dl](https://pypi.python.org/pypi/file-dl)
+
+
+Installation
+------------
+pip install file-dl
+
 
 Usage
-----
+-----
 
 file-dl [-h] [--directory DIRECTORY] [--user USER]
                [--password PASSWORD] [--parallelism PARALLELISM]
